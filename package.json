@@ -15,5 +15,8 @@
     "url": "https://github.com/raresmigea/test-app/issues"
   },
   "homepage": "https://github.com/raresmigea/test-app#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
 }
